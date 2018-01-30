@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class boxTilt : MonoBehaviour {
+public class BoxTilt : MonoBehaviour {
 
 
 	void OnMouseDown(){
